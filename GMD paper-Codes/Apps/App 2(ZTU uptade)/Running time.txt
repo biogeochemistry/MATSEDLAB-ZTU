@@ -1,0 +1,7 @@
+Steady state 100 years: 350s
+
+oxic seasons: 30s
+
+anoxic seasons: 15s
+
+total running time: 350 + (30+15)*100 = 4850s = 1h 20min
